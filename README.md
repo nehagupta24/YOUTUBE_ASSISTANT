@@ -3,6 +3,7 @@ This project is an intelligent, multi-agent chatbot interface that lets you chat
 
 
 ✍️ How It Works
+
 agent.py:
 Defines two tools:
 
