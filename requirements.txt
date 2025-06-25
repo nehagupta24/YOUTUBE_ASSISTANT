@@ -1,0 +1,8 @@
+streamlit
+pytubefix
+youtube-transcript-api
+openai
+tqdm
+requests
+autogen-agentchat
+autogen-ext[openai]
